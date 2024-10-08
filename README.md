@@ -1,2 +1,4 @@
 # curvy_bachelor
-A function plotter with in built educational game and simple GUI.
+A function plotter with in built educational game and simple GUI. A bachelor project for programming class.
+
+The aim of our project was to write a curve discussion program. The user should be able to display a function graphically by entering it. Furthermore, the user should receive additional information about the function by pressing buttons. Specifically, we wanted to deal with extreme values, zero points and derivative functions during programming.  On the one hand, it should serve as a simple means of obtaining information on certain functions. On the other hand, it should also be usable as an exercise programme for students. We therefore wanted to integrate a game into the programme in addition to the function calculator. This should test the knowledge of the curve discussion.
